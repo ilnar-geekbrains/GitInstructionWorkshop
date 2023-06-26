@@ -39,5 +39,17 @@
 ### Инструкция по созданию pull request
 
 ## Книги и полезные ссылки по изучению git.
+Памятка по git для новичка:
+[Часть1](https://habr.com/ru/articles/541258/)
+[Часть2](https://habr.com/ru/articles/542616/)
+
+Подробное описание команд git на русском языке:
+[Настройка репозитория](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository);
+[Сохранение изменений](https://www.atlassian.com/ru/git/tutorials/saving-changes);
+[Проверка репозитория](https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository);
+[Отмена изменений](https://www.atlassian.com/ru/git/tutorials/undoing-changes)
+
+Качественный и понятный скринкаст от Ильи Кантора
+[Здесь](https://vimeo.com/showcase/5616060)
 
 ## Альтернативные системы контроля версий.
