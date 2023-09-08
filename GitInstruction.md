@@ -41,3 +41,16 @@
 ## Книги и полезные ссылки по изучению git.
 
 ## Альтернативные системы контроля версий.
+*  GitHub Desktop
+*  Fork
+*  Tower
+*  Sourcetree
+*  SmartGit
+*  Sublime Merge
+*  GitKraken
+*  GitUp
+*  Aurees Git Client
+*  GitBlade
+*  Git Cola
+*  GitEye
+*  UnGit
